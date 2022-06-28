@@ -1,1 +1,1 @@
-web:node src/messenger-webhook/index.js
+web:npm start
